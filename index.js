@@ -1,3 +1,4 @@
+console.log("Initing Script...")
 const { 
 default: makeWASocket,
 makeInMemoryStore,
