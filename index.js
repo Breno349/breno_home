@@ -1,5 +1,5 @@
 console.log("Initing Script...")
-const { 
+/*const { 
 default: makeWASocket,
 makeInMemoryStore,
 useSingleFileAuthState, 
@@ -146,4 +146,5 @@ web.sendMessage(from, {audio: {url: ur, mimetype: "audio/mp3; codecs=opus", ptt:
      }
   })
 }
-LigarBot()
+LigarBot()*/
+console.log("Finaly")
