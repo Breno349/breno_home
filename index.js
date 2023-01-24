@@ -1,0 +1,1 @@
+txt.innerText = "Inicializado."
